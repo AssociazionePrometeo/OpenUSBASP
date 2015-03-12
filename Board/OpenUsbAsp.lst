@@ -1,0 +1,53 @@
+eeschema (2012-jan-04)-stable  >> Creation date: mer 07 nov 2012 23:29:59 CET
+
+#Cmp ( ordine = Riferimento )
+| C1         100n        
+| C2         4.7u        
+| C3         22pf        
+| C4         22pf        
+| D1         3V6         
+| D2         3V6         
+| D3         LED Red     
+| D4         LED Green   
+| IC1        ATMEGA8-AI  
+| J1         USB_2       
+| P1         JP1         
+| P2         JP2         
+| P3         CONN_5X2    
+| P4         JP3         
+| R1         10K         
+| R2         2.2K        
+| R3         68          
+| R4         1K          
+| R5         68          
+| R6         1K          
+| R7         1K          
+| X1         12MHZ       
+#Fine Cmp
+
+#Cmp ( ordine = Valore )
+| 100n         C1        
+| 10K          R1        
+| 12MHZ        X1        
+| 1K           R4        
+| 1K           R6        
+| 1K           R7        
+| 2.2K         R2        
+| 22pf         C3        
+| 22pf         C4        
+| 3V6          D1        
+| 3V6          D2        
+| 4.7u         C2        
+| 68           R3        
+| 68           R5        
+| ATMEGA8-AI   IC1       
+| CONN_5X2     P3        
+| JP1          P1        
+| JP2          P2        
+| JP3          P4        
+| LED Green    D4        
+| LED Red      D3        
+| USB_2        J1        
+#Fine Cmp
+
+#Fine Lista

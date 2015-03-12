@@ -1,0 +1,203 @@
+Cmp-Mod V01 Genere par PcbNew le gio 15 nov 2012 21:09:14 CET
+
+BeginCmp
+TimeStamp = 5090515D
+Path = /508DACB2
+Reference = J1;
+ValeurCmp = USB_2;
+IdModule  = USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = 509AE2CB
+Path = /508DA4F4
+Reference = IC1;
+ValeurCmp = ATMEGA8-AI;
+IdModule  = TQFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090515F
+Path = /509047ED
+Reference = P4;
+ValeurCmp = JP3;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905161
+Path = /508DB27E
+Reference = P2;
+ValeurCmp = JP2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905163
+Path = /508DB0D3
+Reference = P1;
+ValeurCmp = JP1;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905171
+Path = /508DAB7E
+Reference = P3;
+ValeurCmp = ICSP;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905178
+Path = /508DA9D4
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090517A
+Path = /508DB01D
+Reference = C2;
+ValeurCmp = 4.7u;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090517D
+Path = /5090495C
+Reference = C3;
+ValeurCmp = 22pf;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090517B
+Path = /50904966
+Reference = C4;
+ValeurCmp = 22pf;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905177
+Path = /508DAEEF
+Reference = D1;
+ValeurCmp = 3V6;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905175
+Path = /508DAEF7
+Reference = D2;
+ValeurCmp = 3V6;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905174
+Path = /50904B58
+Reference = D3;
+ValeurCmp = LED_Red;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905172
+Path = /50904B5E
+Reference = D4;
+ValeurCmp = LED_Green;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090516A
+Path = /508DA511
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 509AE6AF
+Path = /508DAFE4
+Reference = R2;
+ValeurCmp = 2.2K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905166
+Path = /508DACF3
+Reference = R3;
+ValeurCmp = 68;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905164
+Path = /508DABCB
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090516C
+Path = /508DAD12
+Reference = R5;
+ValeurCmp = 68;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090516E
+Path = /50904B67
+Reference = R6;
+ValeurCmp = 1K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 50905170
+Path = /50904BB2
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = 5090517E
+Path = /5090494C
+Reference = X1;
+ValeurCmp = 12MHZ;
+IdModule  = Crystal_SMD_0603_2Pads_obsolete_RevA_09Aug2010;
+EndCmp
+
+BeginCmp
+TimeStamp = 509E5110
+Path = OpenLab_logo
+Reference = G***;
+ValeurCmp = OpenLab_logo;
+IdModule  = OpenLab_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = 509E5125
+Path = OSHW
+Reference = G***;
+ValeurCmp = OSHW;
+IdModule  = OSHW;
+EndCmp
+
+BeginCmp
+TimeStamp = 50A54B2D
+Path = Prometeo_reversed_10mm
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = Prometeo_reversed_10mm;
+EndCmp
+
+EndListe

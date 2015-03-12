@@ -1,0 +1,235 @@
+# EESchema Netlist Version 1.1 created  mer 07 nov 2012 23:46:48 CET
+(
+ ( /508DA9D4 SM0603_Capa C1 100n
+  ( 1 GND )
+  ( 2 +5V )
+ )
+ ( /508DB01D SM0603_Capa C2 4.7u
+  ( 1 N-000035 )
+  ( 2 GND )
+ )
+ ( /5090495C SM0603_Capa C3 22pf
+  ( 1 GND )
+  ( 2 N-000031 )
+ )
+ ( /50904966 SM0603_Capa C4 22pf
+  ( 1 GND )
+  ( 2 N-000030 )
+ )
+ ( /508DAEEF SM0603 D1 3V6
+  ( 1 N-000018 )
+  ( 2 GND )
+ )
+ ( /508DAEF7 SM0603 D2 3V6
+  ( 1 N-000013 )
+  ( 2 GND )
+ )
+ ( /50904B58 SM0603 D3 LED_Red
+  ( 1 N-000034 )
+  ( 2 N-000033 )
+ )
+ ( /50904B5E SM0603 D4 LED_Green
+  ( 1 N-000019 )
+  ( 2 N-000032 )
+ )
+ ( /508DA4F4 TQFP32 IC1 ATMEGA8-AI
+  ( 1 ? )
+  ( 2 ? )
+  ( 3 GND )
+  ( 4 +5V )
+  ( 5 GND )
+  ( 6 +5V )
+  ( 7 N-000031 )
+  ( 8 N-000030 )
+  ( 9 ? )
+  ( 10 ? )
+  ( 11 ? )
+  ( 12 N-000013 )
+  ( 13 N-000018 )
+  ( 14 N-000004 )
+  ( 15 /MOSI )
+  ( 16 /MISO )
+  ( 17 /SCK )
+  ( 18 +5V )
+  ( 19 ? )
+  ( 20 ? )
+  ( 21 GND )
+  ( 22 ? )
+  ( 23 N-000034 )
+  ( 24 N-000019 )
+  ( 25 N-000021 )
+  ( 26 ? )
+  ( 27 ? )
+  ( 28 ? )
+  ( 29 N-000028 )
+  ( 30 /RX )
+  ( 31 N-000016 )
+  ( 32 N-000018 )
+ )
+ ( /508DACB2 USB_A J1 USB_2
+  ( 1 GND )
+  ( 2 N-000014 )
+  ( 3 N-000001 )
+  ( 4 N-000035 )
+ )
+ ( /508DB0D3 SIL-2 P1 JP1
+  ( 1 /VCINT )
+  ( 2 N-000035 )
+ )
+ ( /508DB27E SIL-2 P2 JP2
+  ( 1 N-000028 )
+  ( 2 N-000004 )
+ )
+ ( /508DAB7E PIN_ARRAY_5x2 P3 CONN_5X2
+  ( 1 /MOSI )
+  ( 2 /VCINT )
+  ( 3 ? )
+  ( 4 /TX )
+  ( 5 N-000004 )
+  ( 6 /RX )
+  ( 7 /SCK )
+  ( 8 GND )
+  ( 9 /MISO )
+  ( 10 GND )
+ )
+ ( /509047ED SIL-2 P4 JP3
+  ( 1 GND )
+  ( 2 N-000021 )
+ )
+ ( /508DA511 SM0603_Resistor R1 10K
+  ( 1 +5V )
+  ( 2 N-000028 )
+ )
+ ( /508DAFE4 SM0603_Resistor R2 2.2K
+  ( 1 N-000035 )
+  ( 2 N-000013 )
+ )
+ ( /508DACF3 SM0603_Resistor R3 68
+  ( 1 N-000001 )
+  ( 2 N-000013 )
+ )
+ ( /508DABCB SM0603_Resistor R4 1K
+  ( 1 N-000016 )
+  ( 2 /TX )
+ )
+ ( /508DAD12 SM0603_Resistor R5 68
+  ( 1 N-000014 )
+  ( 2 N-000018 )
+ )
+ ( /50904B67 SM0603_Resistor R6 1K
+  ( 1 GND )
+  ( 2 N-000033 )
+ )
+ ( /50904BB2 SM0603_Resistor R7 1K
+  ( 1 GND )
+  ( 2 N-000032 )
+ )
+ ( /5090494C Crystal_SMD_0603_2Pads_obsolete_RevA_09Aug2010 X1 12MHZ
+  ( 1 N-000030 )
+  ( 3 N-000031 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ SO*
+ SM*
+$endlist
+$component D2
+ D?
+ SO*
+ SM*
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component IC1
+ TQFP32
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

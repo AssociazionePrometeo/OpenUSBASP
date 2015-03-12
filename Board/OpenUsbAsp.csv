@@ -1,0 +1,21 @@
+Id	Riferimento	Contenitore	Quantità	Valore	Produttore	
+1	J1	USB_A	1	USB_2		ok
+2	IC1	TQFP32	1	ATMEGA8-AI		ok
+3	P4	SIL-2	1	JP3		ok
+4	P2	SIL-2	1	JP2		ok
+5	P1	SIL-2	1	JP1		ok
+6	P3	PIN_ARRAY_5x2	1	ICSP		ok
+7	C1	SM0603_Capa	1	100n		ok
+8	C2	SM0603_Capa	1	4.7u		ok
+9	C3,C4	SM0603_Capa	2	22pf		ok
+10	D1,D2	SM0603	2	3V6		no
+11	D3	SM0603	1	LED_Red		ok
+12	D4	SM0603	1	LED_Green		ok
+13	R1	SM0603_Resistor	1	10K		ok
+14	R2	SM0603_Resistor	1	2.2K		ok
+15	R3,R5	SM0603_Resistor	2	68		ok
+16	R4,R6,R7	SM0603_Resistor	3	1K		ok
+17	X1	Crystal_SMD_0603_2Pads_obsolete_RevA_09Aug2010	1	12MHZ		ok
+18	G***	OpenLab_logo	1	OpenLab_logo		
+19	G***	OSHW	1	OSHW		
+20	G***	Prometeo_reversed_10mm	1	LOGO		
